@@ -64,7 +64,7 @@ int main()
 		// s is denoting Stone
 		computer = 's';
 
-	else if (a > 33 && a < 66)
+	else if (a >= 33 && a <=66)
 
 		// p is denoting Paper
 		computer = 'p';
